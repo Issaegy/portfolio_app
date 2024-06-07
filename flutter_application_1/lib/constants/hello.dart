@@ -1,0 +1,1 @@
+const double DesktopWidth = 600;
